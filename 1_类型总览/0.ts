@@ -11,7 +11,7 @@
  TypeScript 中的数据类型
     1. 上述所有 JavaScript 类型
     2. 六个新类型： 1. any 2. unknown 3. never 4. void 5. tuple 6. enum
-    3. 两个用于⾃定义类型的⽅式： ① type ② interface
+    3. 两个用于定义类型的⽅式： type、interface
 
  注意点！
      在 JavaScript 中的这些内置构造函数： Number 、 String 、 Boolean ，用于创建对应的包装对象，
